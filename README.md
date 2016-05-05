@@ -6,19 +6,19 @@ jsonmath is json tool. it very sample.
 
 > +
 
-> -
+> \-
 
 > *
 
 > /
 
-> >
+> \>
 
 > <
 
-> ><
+> \><
 
-> <>
+> <\>
 
 ### function
 
@@ -85,6 +85,7 @@ result: throw error
 #---------------
 formula: {'a.?[].c': 30}
 result: {'a.?[].c': []}
+```
 
 **demo4**
 
